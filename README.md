@@ -1,4 +1,4 @@
 bro.js
 ======
 
-Hint, Lint an all That Shit
+Hint, Lint and all That Shit
